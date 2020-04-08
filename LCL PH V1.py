@@ -1,6 +1,6 @@
-SCorTC = input("What language are you use?Simplified Chinese or Tranditional Chinese?If you Use Simplified Chinese input 1. If you use Tranditional Chinese input 2.")
-SimplifiedChineseorTranditionalChinese = int(input("SimplifiedChineseorTranditionalChinese"))
-if SimplifiedChineseorTranditionalChinese == 1:
+SCorTC = input("What language r u use?zh-CN(zh-SG) or zh-TW(or zh-HK / zh-MO)?If you Use zh-CN(zh-SG) type 1. If you use zh-TW(or zh-MO / zh-HK) type 2.")
+SCorTC = int(input("SCorTC"))
+if SCorTC == 1:
     password = input("Please input the password")
     password = int(password)
     if password == 53579:
@@ -17,3 +17,4 @@ else:
         print("53579的意思是:黎程朗是屑!(9键中國大陸拼音输入法)")
     else:
         print("你輸入的密碼錯誤!請重新輸入!")
+#此PY测试while True,失败。
