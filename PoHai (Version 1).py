@@ -1,4 +1,4 @@
-SimplifiedChineseorTranditionalChinese = input("What language are you use?Simplified Chinese or Tranditional Chinese?If you Use Simplified Chinese input 1. If you use Tranditional Chinese input 2.")
+SimplifiedChineseorTranditionalChinese= input("What language are you use?Simplified Chinese or Tranditional Chinese?If you Use Simplified Chinese input 1. If you use Tranditional Chinese input 2.")
 SimplifiedChineseorTranditionalChinese = int(input("SimplifiedChineseorTranditionalChinese"))
 if SimplifiedChineseorTranditionalChinese == 1:
     password = input("Please input the password")
@@ -17,3 +17,5 @@ else:
         print("9979的意思是:小豬是屑!(9键中國大陸拼音输入法)")
     else:
         print("你輸入的密碼錯誤!請重新輸入!")
+
+#该版本为初版。
