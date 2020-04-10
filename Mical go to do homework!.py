@@ -13,4 +13,3 @@ input()
 while True:
     print("Mical爬去写作业!!!")
 
-#???Push不上去???
