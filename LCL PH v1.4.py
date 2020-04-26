@@ -14,10 +14,10 @@ if Language == 'zh-cmn-Hans':
 if Language == 'zh-cmn-Hant':
     letter = input("Please input the letter")
     if letter == 'lclsx':
-        print("恭喜你!你正確輸入了字母！")
+        print("恭喜你!你正确输入了字母！")
         print("'lclsx'的意思是:黎程朗是屑！")
     else:
-        print("你輸入的字母錯誤!請重新輸入!")
+        print("你输入的字母错误!请重新输入!")
 
 if Language == 'en':
     letter = input("Please type the letter!")
@@ -29,5 +29,3 @@ if Language == 'en':
 
 
 #此版本将变量"Language"的识别方式从"1,2,3"改成ISO 639中的"
-
-
