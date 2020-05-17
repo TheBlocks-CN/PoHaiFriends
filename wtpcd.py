@@ -7,7 +7,7 @@ print('''WTP016的菜单
  [4] 启动 Photoshop 2020            [12] 启动 Windows Terminal
  [5] 启动 Premiere Pro 2020         [13] 启动 设置
  [6] 启动 Ashampoo WinOptimizer 18  [14] 启动 Firefox
- [7] 启动 SSTap 或 JustProxy        [15] 启动 网易云音乐
+ [7] 启动 JustProxy or SSTap        [15] 启动 网易云音乐
  [8] 启动 Wechat PC Client          [16] 启动 Viusal Studio Code
  
  
